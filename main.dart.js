@@ -33486,7 +33486,7 @@ A.HW.prototype={
 aS(){var s,r="assets/jitsi_logo.jpeg"
 this.bu()
 s=t.HZ
-this.f=this.d=A.a([new A.dH(0,"BBB EVAGD","assets/bbb.png","/bbb",A.a([!0,!0,!1,!0,!0,!1],s)),new A.dH(1,"BBB nube_Medusa","assets/bbb_evagd.png","/bbb_nube",A.a([!0,!0,!0,!0,!0,!1],s)),new A.dH(2,"Talk nube_Medusa","assets/talk.jpeg","/talk",A.a([!0,!1,!1,!1,!1,!0],s)),new A.dH(3,"Jitsi EVAGD",r,"/jitsi_evagd",A.a([!0,!1,!0,!1,!0,!0],s)),new A.dH(4,"Jitsi nube_Medusa",r,"/jitsi_nube",A.a([!0,!1,!0,!1,!0,!0],s)),new A.dH(5,"Jitsi Meet",r,"/jitsi_meet",A.a([!0,!1,!0,!1,!0,!0],s)),new A.dH(6,"Google Meet","assets/google_meet.png","/google_meet",A.a([!1,!1,!0,!1,!0,!0],s)),new A.dH(7,"Microsoft Teams","assets/microsoft_teams.jpeg","/teams",A.a([!1,!0,!0,!1,!0,!1],s)),new A.dH(8,"Cisco Webex Meeting","assets/cisco.png","/cisco",A.a([!1,!0,!0,!1,!1,!1],s)),new A.dH(9,"ZOOM","assets/zoom.png","/zoom",A.a([!1,!1,!1,!1,!1,!1],s))],t.zU)},
+this.f=this.d=A.a([new A.dH(0,"BBB EVAGD","assets/bbb.png","/bbb",A.a([!0,!0,!1,!0,!0,!1],s)),new A.dH(1,"BBB nube_Medusa","assets/bbb_evagd.png","/bbb_nube",A.a([!0,!0,!0,!0,!0,!1],s)),new A.dH(2,"Talk nube_Medusa","assets/talk.jpeg","/talk",A.a([!0,!1,!1,!1,!1,!0],s)),new A.dH(3,"Jitsi EVAGD",r,"/jitsi_evagd",A.a([!0,!1,!0,!1,!0,!0],s)),new A.dH(4,"Jitsi nube_Medusa",r,"/jitsi_nube",A.a([!0,!1,!0,!1,!0,!0],s)),new A.dH(5,"Jitsi Meet",r,"/jitsi_meet",A.a([!0,!1,!0,!1,!0,!0],s)),new A.dH(6,"Google Meet","assets/google_meet.png","/google_meet",A.a([!1,!1,!0,!1,!0,!0],s)),new A.dH(7,"Microsoft Teams","assets/microsoft_teams.jpeg","/teams",A.a([!1,!0,!0,!1,!0,!1],s)),new A.dH(8,"Cisco Webex Meeting","assets/cisco.png","/cisco",A.a([!1,!0,!0,!1,!1,!1],s)),new A.dH(9,"ZOOM","assets/zoom.png","/zoom",A.a([!1,!0,!0,!1,!1,!0],s))],t.zU)},
 M(a,b){var s,r,q,p=this,o=null,n=t.w,m=A.kF(b.T(n).f.a),l=p.y,k=A.kF(new A.L(b.T(n).f.a.a,100))
 l=A.a7_(new A.dy(k,new A.tm(new A.Yd(new A.a2f(p),6,!0,!0,!0),o,B.ae,!1,l,!1,o,!1,o,6,B.K,B.rv,o,B.af,o),o),l,!0)
 k=p.z
@@ -33522,7 +33522,7 @@ i=j.e
 B.b.sm(i,0)
 if(!a){j.r=A.a([!1,!1,!1,!1,!1,!1],t.HZ)
 j.x=!1
-j.at(new A.a26())}for(s=j.y,r=0;q=j.d,r<q.length;++r){for(p=j.r,o=0,n=0;n<6;++n){m=p[n]
+j.at(new A.a26())}for(s=j.z,r=0;q=j.d,r<q.length;++r){for(p=j.r,o=0,n=0;n<6;++n){m=p[n]
 if(m!==q[r].e[n]&&m)++o}l="i="+r+" index="+o
 k=$.a5x
 if(k==null)A.LV(l)
